@@ -8,5 +8,5 @@
 
 Para rodar este codigo, com dois processos, use: 
 
- * `mpicc mpiBucketSort.c - o mpiBucket`
+ * `mpicc mpiBucketSort.c -o mpiBucket`
  * `mpirun -np 2 mpiBucket`
