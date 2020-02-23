@@ -9,7 +9,8 @@
 
 int k = 0;
 
-/* E estrutura do balde e formada por:
+/**
+*  E estrutura do balde e formada por:
 *  vetor que tem os numeros do balde
 *  a ultima posicao que foi inserido o elelmento
 */
